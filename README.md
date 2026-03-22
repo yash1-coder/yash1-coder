@@ -6,9 +6,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Colouring Black Boxes** — my PGT research project at the University of Leicester
-- - 🌱 I'm learning **Machine Learning**, **Deep Learning**, and **Backend Architecture**
-  - - 💡 I love building intelligent systems that solve real-world problems
+- 🔭 Currently working on **Colouring Black Boxes** — PGT Research at University of Leicester
+- - 🌱 Learning **Machine Learning**, **Deep Learning**, and **Backend Architecture**
+  - - 💡 Love building intelligent systems that solve real-world problems
     - - 🌍 Based in **UK**
       - - 📫 Reach me at: [yashchourasia1111@gmail.com](mailto:yashchourasia1111@gmail.com)
        
@@ -17,16 +17,17 @@
         ## 🧪 Currently Working On
 
         ### 🎨 Colouring Black Boxes — Visualization of Decision Making of AI
+
         > *PGT Research Project · University of Leicester · 2025/26*
         >
-        > Investigating how visualization-based explainability (XAI) methods behave across three fundamentally different vision architectures for satellite image classification:
+        > Investigating how visualization-based explainability (XAI) methods behave across three fundamentally different vision architectures for satellite image classification.
         >
         > - 🧠 **CNN** (ResNet) — Grad-CAM & Grad-CAM++
         > - - 👁️ **Vision Transformer (ViT)** — Attention-based visualisation
         >   - - 🌀 **Vision Mamba** — State Space Model architecture
         >     - - 📡 **Dataset:** EuroSAT (10 land-use classes from satellite imagery)
         >       - - 🔬 **XAI Methods:** Integrated Gradients, SmoothGrad, Grad-CAM
-        >         - - 📊 **Evaluation:** Faithfulness, stability, sensitivity metrics + failure-case analysis
+        >         - - 📊 **Evaluation:** Faithfulness, stability & sensitivity metrics + failure-case analysis
         >          
         >           - **Tech Stack:** Python · PyTorch · Jupyter Notebook · scikit-learn · EuroSAT
         >          
