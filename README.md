@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on **Smart Health Backend** and **Intelligent Defence Systems**
 - - 🌱 I'm learning **Machine Learning**, **Deep Learning**, and **Backend Architecture**
   - - 💡 I love building intelligent systems that solve real-world problems
-    - - 🌍 Based in **India**
+    - - 🌍 Based in **UK**
       - - 📫 Reach me at: [yashchourasia1111@gmail.com](mailto:yashchourasia1111@gmail.com)
        
         - ---
