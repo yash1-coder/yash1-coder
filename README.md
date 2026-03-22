@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Smart Health Backend** and **Intelligent Defence Systems**
+- 🔭 I have built **Smart Health Backend**, **Library Management System** and **Intelligent Defence System**
 - - 🌱 I'm learning **Machine Learning**, **Deep Learning**, and **Backend Architecture**
   - - 💡 I love building intelligent systems that solve real-world problems
     - - 🌍 Based in **UK**
@@ -23,13 +23,13 @@
 
         ---
 
-        ## 📂 Featured Projects
+        ## 📂 Completed Projects
 
-        | Project | Description | Tech |
-        |---------|-------------|------|
-        | [🏥 Smart Health Backend](https://github.com/yash1-coder/smart-health-backend) | Backend system for smart health monitoring | Python |
-        | [📚 Lib Management](https://github.com/yash1-coder/lib-management) | Library management system with CRUD operations | Python |
-        | [🛡️ Intelligent Defence System](https://github.com/yash1-coder/Intelligent-defence-system) | AI-powered cyber attack detection and defence | Python, Jupyter |
+        | Project | Description | Tech | Status |
+        |---------|-------------|------|--------|
+        | [🏥 Smart Health Backend](https://github.com/yash1-coder/smart-health-backend) | Backend system for smart health monitoring | Python | ✅ Completed |
+        | [📚 Lib Management](https://github.com/yash1-coder/lib-management) | Library management system with CRUD operations | Python | ✅ Completed |
+        | [🛡️ Intelligent Defence System](https://github.com/yash1-coder/Intelligent-defence-system) | AI-powered cyber attack detection and defence | Python, Jupyter | ✅ Completed |
 
         ---
 
