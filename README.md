@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Chourasia 👋
 
-### 🚀 Graduate Software Engineer | Python · FastAPI · Flutter · Power BI · ML | MSc Advanced Computer Science, University of Leicester
+### 🚀 Graduate Computer Science Engineer | Python · FastAPI · Flutter · Power BI · ML | MSc Advanced Computer Science, University of Leicester
 
 ---
 
