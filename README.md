@@ -1,71 +1,97 @@
-# Hi there, I'm YASH 👋
+# Hi there, I'm Yash Chourasia 👋
 
-### 🚀 Backend Developer | Python & AI/ML Enthusiast
+### 🚀 Graduate Software Engineer | Python · FastAPI · Flutter · Power BI · ML | MSc Advanced Computer Science, University of Leicester
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Colouring Black Boxes** — PGT Research at University of Leicester
-- - 🌱 Learning **Machine Learning**, **Deep Learning**, and **Backend Architecture**
-  - - 💡 Love building intelligent systems that solve real-world problems
-    - - 🌍 Based in **UK**
-      - - 📫 Reach me at: [yashchourasia1111@gmail.com](mailto:yashchourasia1111@gmail.com)
-       
-        - ---
+- 🎓 MSc Advanced Computer Science with Industry — **University of Leicester** (2025–2026)
+- - 🔭 Currently working on **CareSync** — a cross-platform NHS healthcare navigation app (Flutter + FastAPI)
+  - - 🧪 PGT Researcher — **Colouring Black Boxes**: XAI for satellite image classification (PyTorch · CNN · ViT · Vision Mamba)
+    - - 💼 Former **Data Science Intern @ SoftSensor.ai** — Power BI dashboards backed by Microsoft Fabric pipelines
+      - - 💡 Building intelligent systems across healthcare tech, backend development, data science & ML
+        - - 🌍 Based in **Leicester, UK** — Open to UK graduate roles, internships & placements
+          - - 📫 Reach me at: [yashchourasia1111@gmail.com](mailto:yashchourasia1111@gmail.com)
+           
+            - ---
 
-        ## 🧪 Currently Working On
+            ## 🧪 Currently Working On
 
-        ### 🎨 Colouring Black Boxes — Visualization of Decision Making of AI
+            ### 🏥 CareSync — NHS Healthcare Navigation App
 
-        > *PGT Research Project · University of Leicester · 2025/26*
-        >
-        > Investigating how visualization-based explainability (XAI) methods behave across three fundamentally different vision architectures for satellite image classification.
-        >
-        > - 🧠 **CNN** (ResNet) — Grad-CAM & Grad-CAM++
-        > - - 👁️ **Vision Transformer (ViT)** — Attention-based visualisation
-        >   - - 🌀 **Vision Mamba** — State Space Model architecture
-        >     - - 📡 **Dataset:** EuroSAT (10 land-use classes from satellite imagery)
-        >       - - 🔬 **XAI Methods:** Integrated Gradients, SmoothGrad, Grad-CAM
-        >         - - 📊 **Evaluation:** Faithfulness, stability & sensitivity metrics + failure-case analysis
-        >          
-        >           - **Tech Stack:** Python · PyTorch · Jupyter Notebook · scikit-learn · EuroSAT
-        >          
-        >           - ---
-        >
-        > ## 📂 Completed Projects
-        >
-        > | Project | Description | Tech | Status |
-        > |---------|-------------|------|--------|
-        > | [🏥 Smart Health Backend](https://github.com/yash1-coder/smart-health-backend) | Backend system for smart health monitoring | Python | ✅ Completed |
-        > | [📚 Lib Management](https://github.com/yash1-coder/lib-management) | Library management system with CRUD operations | Python | ✅ Completed |
-        > | [🛡️ Intelligent Defence System](https://github.com/yash1-coder/Intelligent-defence-system) | AI-powered cyber attack detection and defence | Python, Jupyter | ✅ Completed |
-        >
-        > ---
-        >
-        > ## 🛠️ Tech Stack
-        >
-        > ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-        > ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-        > ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-        > ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-        > ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-        >
-        > ---
-        >
-        > ## 📊 GitHub Stats
-        >
-        > ![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash1-coder&show_icons=true&theme=tokyonight)
-        >
-        > ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash1-coder&layout=compact&theme=tokyonight)
-        >
-        > ---
-        >
-        > ## 🤝 Connect with Me
-        >
-        > [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash1-coder)
-        > [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash1-coder)
-        >
-        > ---
-        >
-        > ⭐ *Feel free to explore my repositories and leave a star if you find something useful!*
+            > *Personal Project · Flutter + FastAPI · 2025/26*
+            >
+            > Cross-platform healthcare app for NHS patients and unpaid carers, with modules for:
+            > - 📋 Waiting-list tracking & appointment/admin support
+            > - - 🤝 Carer coordination & anonymous feedback with sentiment analysis
+            >   - - 📊 Analytics dashboard & digital inclusion features
+            >     - - ✅ Released on **Google Play Internal Testing** (Android + iOS verified, zero static analysis issues)
+            >      
+            >       - **Tech Stack:** Flutter · Python · FastAPI · Dart · Sentiment Analysis · REST API
+            >      
+            >       - ---
+            >
+            > ### 🎨 Colouring Black Boxes — Visualisation of AI Decision Making
+            >
+            > > *PGT Research Project · University of Leicester · 2025/26*
+            > >
+            > > Investigating how visualisation-based explainability (XAI) methods behave across three fundamentally different vision architectures for satellite image classification.
+            > >
+            > > - 🧠 CNN (ResNet) — Grad-CAM & Grad-CAM++
+            > > - - 👁️ Vision Transformer (ViT) — Attention-based visualisation
+            > >   - - 🌀 Vision Mamba — State Space Model architecture
+            > >     - - 📡 Dataset: EuroSAT (10 land-use classes from satellite imagery)
+            > >       - - 🔬 XAI Methods: Integrated Gradients, SmoothGrad, Grad-CAM
+            > >         - - 📊 Evaluation: Faithfulness, stability & sensitivity metrics + failure-case analysis
+            > >          
+            > >           - **Tech Stack:** Python · PyTorch · Jupyter Notebook · scikit-learn · EuroSAT
+            > >          
+            > >           - ---
+            > >
+            > > ## 📂 Completed Projects
+            > >
+            > > | Project | Description | Tech | Status |
+            > > |---------|-------------|------|--------|
+            > > | 📈 [Customer Churn Prediction](https://github.com/yash1-coder/Customer-Churn-Prediction) | ML pipeline with XGBoost, EDA, Streamlit dashboard & CI/CD | Python · XGBoost · Streamlit · scikit-learn | ✅ Completed |
+            > > | 🗄️ [SQL E-Commerce Analytics](https://github.com/yash1-coder/SQL-E-commerce-Analytics) | End-to-end SQL analytics for e-commerce data | SQL · Data Analysis | ✅ Completed |
+            > > | 🛡️ [Intelligent Defence System](https://github.com/yash1-coder/Intelligent-defence-system) | AI-powered cyber-attack detection using 6 ML models (SVM, RF, AdaBoost, Neural Networks) — 85% detection accuracy | Python · scikit-learn · Jupyter | ✅ Completed |
+            > > | 🛍️ Clothing E-Commerce + AI Chatbot | Full-stack e-commerce platform with integrated AI chatbot for real-time product recommendations | HTML · CSS · JavaScript · AI Chatbot | ✅ Completed |
+            > > | 📚 [Library Management System](https://github.com/yash1-coder/lib-management) | Database-backed system with full CRUD: catalogue, borrowing, returns & availability lookup | Python · SQL · OOP | ✅ Completed |
+            > >
+            > > ---
+            > >
+            > > ## 💼 Experience
+            > >
+            > > **Data Science Intern — SoftSensor.ai** *(Sep 2024 – Dec 2024, Hybrid)*
+            > > - Designed 5 interactive **Power BI dashboards** backed by **Microsoft Fabric** pipelines
+            > > - - Replaced fragmented manual reporting with auto-refreshing analytics views
+            > >   - - Worked with stakeholders to define KPIs, validate outputs & improve reporting workflows
+            > >    
+            > >     - **PGT Researcher — University of Leicester** *(Jan 2025 – May 2026)*
+            > >     - - Comparative XAI study across CNN, ViT & Vision Mamba for safety-critical satellite image classification
+            > >       - - Quantified faithfulness, stability & sensitivity metrics with failure-case analysis
+            > >        
+            > >         - ---
+            > >
+            > > ## 🛠️ Tech Stack
+            > >
+            > > **Languages:** Python · Dart (Flutter) · SQL · JavaScript · Java · HTML/CSS
+            > >
+            > > **Frameworks & Libraries:** FastAPI · Flask · React.js · PyTorch · TensorFlow · scikit-learn · pandas · NumPy · XGBoost
+            > >
+            > > **Data & BI:** Power BI · Microsoft Fabric · Streamlit
+            > >
+            > > **Tools:** Git · GitHub · Jupyter Notebook · Android Studio · VS Code
+            > >
+            > > ---
+            > >
+            > > ## 🤝 Connect with Me
+            > >
+            > > [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Chourasia-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yashchourasia-cs)
+            > > [![GitHub](https://img.shields.io/badge/GitHub-yash1--coder-black?style=flat&logo=github)](https://github.com/yash1-coder)
+            > > [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=internetexplorer)](https://github.com/yash1-coder/portfolio)
+            > >
+            > > ---
+            > >
+            > > ⭐ Feel free to explore my repositories and leave a star if you find something useful!
