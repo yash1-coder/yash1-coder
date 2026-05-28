@@ -8,7 +8,7 @@
 
 - 🎓 MSc Advanced Computer Science with Industry — **University of Leicester** (2025–2026)
 - - 🔭 Currently working on **CareSync** — a cross-platform NHS healthcare navigation app (Flutter + FastAPI)
-  - - 🧪 PGT Researcher — **Colouring Black Boxes**: XAI for satellite image classification (PyTorch · CNN · ViT · Vision Mamba)
+  - - ✅ Completed **Colouring Black Boxes**: XAI for satellite image classification (PyTorch · CNN · ViT · Vision Mamba)
     - - 💼 Former **Data Science Intern @ SoftSensor.ai** — Power BI dashboards backed by Microsoft Fabric pipelines
       - - 💡 Building intelligent systems across healthcare tech, backend development, data science & ML
         - - 🌍 Based in **Leicester, UK** — Open to UK graduate roles, internships & placements
@@ -31,28 +31,12 @@
             >       - **Tech Stack:** Flutter · Python · FastAPI · Dart · Sentiment Analysis · REST API
             >      
             >       - ---
-            >
-            > ### 🎨 Colouring Black Boxes — Visualisation of AI Decision Making
-            >
-            > > *PGT Research Project · University of Leicester · 2025/26*
-            > >
-            > > Investigating how visualisation-based explainability (XAI) methods behave across three fundamentally different vision architectures for satellite image classification.
-            > >
-            > > - 🧠 CNN (ResNet) — Grad-CAM & Grad-CAM++
-            > > - - 👁️ Vision Transformer (ViT) — Attention-based visualisation
-            > >   - - 🌀 Vision Mamba — State Space Model architecture
-            > >     - - 📡 Dataset: EuroSAT (10 land-use classes from satellite imagery)
-            > >       - - 🔬 XAI Methods: Integrated Gradients, SmoothGrad, Grad-CAM
-            > >         - - 📊 Evaluation: Faithfulness, stability & sensitivity metrics + failure-case analysis
-            > >          
-            > >           - **Tech Stack:** Python · PyTorch · Jupyter Notebook · scikit-learn · EuroSAT
-            > >          
-            > >           - ---
             > >
             > > ## 📂 Completed Projects
             > >
             > > | Project | Description | Tech | Status |
             > > |---------|-------------|------|--------|
+            > > | 🎨 Colouring Black Boxes | XAI visualisation study across CNN (ResNet), ViT & Vision Mamba for satellite image classification — Integrated Gradients, SmoothGrad, Grad-CAM | Python · PyTorch · Jupyter · scikit-learn · EuroSAT | ✅ Completed |
             > > | 📈 [Customer Churn Prediction](https://github.com/yash1-coder/Customer-Churn-Prediction) | ML pipeline with XGBoost, EDA, Streamlit dashboard & CI/CD | Python · XGBoost · Streamlit · scikit-learn | ✅ Completed |
             > > | 🗄️ [SQL E-Commerce Analytics](https://github.com/yash1-coder/SQL-E-commerce-Analytics) | End-to-end SQL analytics for e-commerce data | SQL · Data Analysis | ✅ Completed |
             > > | 🛡️ [Intelligent Defence System](https://github.com/yash1-coder/Intelligent-defence-system) | AI-powered cyber-attack detection using 6 ML models (SVM, RF, AdaBoost, Neural Networks) — 85% detection accuracy | Python · scikit-learn · Jupyter | ✅ Completed |
