@@ -20,7 +20,7 @@
 
             ### 🏥 CareSync — NHS Healthcare Navigation App
 
-            > *Personal Project · Flutter + FastAPI · 2025/26*
+            > *Personal Project · Flutter + FastAPI · 2026/27*
             >
             > Cross-platform healthcare app for NHS patients and unpaid carers, with modules for:
             > - 📋 Waiting-list tracking & appointment/admin support
