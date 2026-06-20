@@ -9,7 +9,7 @@
 - 🎓 MSc Advanced Computer Science — **University of Leicester** (2025–2026)
 - - 🔭 Currently working on **CareSync** — a cross-platform NHS healthcare navigation app (Flutter + FastAPI)
   - - ✅ Completed **Colouring Black Boxes**: XAI for satellite image classification (PyTorch · CNN · ViT · Vision Mamba)
-    - - 💼 Former **Data Science Intern @ SoftSensor.ai** — Power BI dashboards backed by Microsoft Fabric pipelines
+    - - 💼 Former **Data Scientist @ SoftSensor.ai** — Power BI dashboards backed by Microsoft Fabric pipelines
       - - 💡 Building intelligent systems across healthcare tech, backend development, data science & ML
         - - 🌍 Based in **Leicester, UK** — Open to UK graduate roles, internships & placements
           - - 📫 Reach me at: [yashchourasia1111@gmail.com](mailto:yashchourasia1111@gmail.com)
