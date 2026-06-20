@@ -29,12 +29,12 @@
             > >
             > > ## 💼 Experience
             > >
-            > > **Data Science Intern — SoftSensor.ai** *(Sep 2024 – Dec 2024, Hybrid)*
+            > > **Data Scientist — SoftSensor.ai** *(Jan 2024 – Dec 2024, Hybrid)*
             > > - Designed 5 interactive **Power BI dashboards** backed by **Microsoft Fabric** pipelines
             > > - - Replaced fragmented manual reporting with auto-refreshing analytics views
             > >   - - Worked with stakeholders to define KPIs, validate outputs & improve reporting workflows
             > >    
-            > >     - **PGT Researcher — University of Leicester** *(Jan 2025 – May 2026)*
+            > >     - **PG — University of Leicester** *(Jan 2025 – May 2026)*
             > >     - - Comparative XAI study across CNN, ViT & Vision Mamba for safety-critical satellite image classification
             > >       - - Quantified faithfulness, stability & sensitivity metrics with failure-case analysis
             > >        
