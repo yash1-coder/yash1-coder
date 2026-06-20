@@ -15,22 +15,6 @@
           - - 📫 Reach me at: [yashchourasia1111@gmail.com](mailto:yashchourasia1111@gmail.com)
            
             - ---
-
-            ## 🧪 Currently Working On
-
-            ### 🏥 CareSync — NHS Healthcare Navigation App
-
-            > *Personal Project · Flutter + FastAPI · 2026/27*
-            >
-            > Cross-platform healthcare app for NHS patients and unpaid carers, with modules for:
-            > - 📋 Waiting-list tracking & appointment/admin support
-            > - - 🤝 Carer coordination & anonymous feedback with sentiment analysis
-            >   - - 📊 Analytics dashboard & digital inclusion features
-            >     - - ✅ Released on **Google Play Internal Testing** (Android + iOS verified, zero static analysis issues)
-            >      
-            >       - **Tech Stack:** Flutter · Python · FastAPI · Dart · Sentiment Analysis · REST API
-            >      
-            >       - ---
             > >
             > > ## 📂 Completed Projects
             > >
