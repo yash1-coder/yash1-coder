@@ -37,7 +37,6 @@
             > > | Project | Description | Tech | Status |
             > > |---------|-------------|------|--------|
             > > | 🎨 Colouring Black Boxes | XAI visualisation study across CNN (ResNet), ViT & Vision Mamba for satellite image classification — Integrated Gradients, SmoothGrad, Grad-CAM | Python · PyTorch · Jupyter · scikit-learn · EuroSAT | ✅ Completed |
-            > > | 🗄️ [SQL E-Commerce Analytics](https://github.com/yash1-coder/SQL-E-commerce-Analytics) | End-to-end SQL analytics for e-commerce data | SQL · Data Analysis | ✅ Completed |
             > > | 🛡️ [Intelligent Defence System](https://github.com/yash1-coder/Intelligent-defence-system) | AI-powered cyber-attack detection using 6 ML models (SVM, RF, AdaBoost, Neural Networks) — 85% detection accuracy | Python · scikit-learn · Jupyter | ✅ Completed |
             > > | 🛍️ Clothing E-Commerce + AI Chatbot | Full-stack e-commerce platform with integrated AI chatbot for real-time product recommendations | HTML · CSS · JavaScript · AI Chatbot | ✅ Completed |
             > > | 📚 [Library Management System](https://github.com/yash1-coder/lib-management) | Database-backed system with full CRUD: catalogue, borrowing, returns & availability lookup | Python · SQL · OOP | ✅ Completed |
